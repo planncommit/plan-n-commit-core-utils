@@ -36,5 +36,8 @@
       "prettier --write",
       "eslint --fix --ignore-pattern .eslintrc.js"
     ]
+  },
+  "dependencies": {
+    "i18next": "^23.15.1"
   }
 }
